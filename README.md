@@ -1,22 +1,58 @@
-# Professional-Portfolio
-My cyber and tech portfolio
-# Cybersecurity Portfolio
+# Joshua Leon – Professional Portfolio
 
-Welcome! My name is Joshua Leon, and I’m currently completing the Google Cybersecurity Professional Certificate. This portfolio showcases my growing skills and hands-on experience in cybersecurity, including work with Linux, network defense, incident handling, and system hardening.
+IT Support | Help Desk | Technical Support  
+Google Cybersecurity Professional Certificate (2025)
+
+---
 
 ## About Me
 
-I’m passionate about understanding how systems work and how to protect them—whether that means pursuing cybersecurity engineering. This portfolio contains practical exercises and documentation from my certificate coursework, demonstrating real-world security concepts.
+I’m building a career in IT Support and Technical Support with a strong foundation in cybersecurity fundamentals. I completed the Google Cybersecurity Professional Certificate in 2025 and enjoy solving practical problems involving access control, incident response, logging, and basic scripting.
 
-## Projects and Skills Featured
+I’m currently seeking remote IT Support / Help Desk roles where I can apply these skills and continue learning.
 
-- Security audits and compliance checklists  
-- Network vulnerability analysis and segmentation  
-- Linux file permissions and command-line tools  
-- Incident handling and investigation  
-- Secure protocols and cloud security practices  
-- SQL filtering and basic scripting
+---
 
-> This is a work in progress and will be updated as I complete more labs and projects.
+## Portfolio Projects
 
-Feel free to explore the files and reach out with any questions or feedback!
+### 1. Python Allow-List Automation
+Automated the process of removing unauthorized IP addresses from an allow list using Python.  
+Demonstrates file handling, lists, loops, and practical access-control scripting.
+
+### 2. Incident Report Analysis
+Analyzed a phishing-related security incident using the NIST framework (Identify, Protect, Detect, Respond, Recover).  
+Shows structured incident documentation and recommended security controls.
+
+### 3. Incident Handler’s Journal – Sample Entry
+Documented a ransomware incident affecting a healthcare clinic, including the 5 W’s and key takeaways for prevention.
+
+### 4. Security Risk Assessment
+Recommended and justified three core hardening measures: strong unique passwords, changing default admin credentials, and multi-factor authentication (MFA).
+
+### 5. SQL Filtering for Security Analysis
+Wrote SQL queries using AND, OR, NOT, and LIKE to investigate login attempts and target employee groups for security updates.
+
+---
+
+## Additional Project
+
+**Virtual WoodShop** – React/TypeScript woodworking simulator  
+[View on GitHub](https://github.com/stashbottles/virtual-woodshop)
+
+---
+
+## Skills
+
+- Windows & macOS troubleshooting  
+- Basic networking concepts  
+- Incident response documentation  
+- Python scripting (file handling & automation)  
+- SQL querying for log/security analysis  
+- Access control & allow-list management  
+- Security awareness & risk assessment  
+
+---
+
+## Contact
+
+Feel free to reach out if you’d like to discuss opportunities or the projects above.
