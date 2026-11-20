@@ -56,3 +56,5 @@ Wrote SQL queries using AND, OR, NOT, and LIKE to investigate login attempts and
 ## Contact
 
 Feel free to reach out if you’d like to discuss opportunities or the projects above.
+
+Email: joshua.m.leon11@gmail.com
